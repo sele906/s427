@@ -11,6 +11,7 @@ This is a alternative skip button ending made with babylon.js. You can enjoy min
 - Move your mouse look around.
 - You can walk with w,s,a,d or →, ↑, ←, ↓.
 - Click object to interact.
+- Use ESC to escape cursor.
 
 Enjoy!
 
