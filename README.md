@@ -6,9 +6,9 @@ This is a alternative skip button ending made with babylon.js. You can enjoy min
 ### How to play
 
 - Go to [stanley parable fangame](https://sele906.github.io/s427/)
-- Click Speaker icon to hear Narrator's voices.
+- Click speaker icon to hear Narrator's voices.
 - Click display to lock cursor.
-- Move your mouse look around.
+- Move your mouse to look around.
 - You can walk with w,s,a,d or →, ↑, ←, ↓.
 - Click object to interact.
 - Use ESC to escape cursor.
